@@ -1,0 +1,7 @@
+# Execute shell script
+$ ./script_name.sh staging ubuntu java8
+$0 = script_name.sh
+$1 = staging
+$2 = ubuntu
+$3 = java3
+$# = No of positional parameters passed to the script
